@@ -44,3 +44,20 @@ our life is cheerful
 world is the place it is big and it is world 
 on it we can spent good life|
 |stromlight-paper-begining.|
+<!DOCTYPE html>
+<html>
+<head>
+    <title>App Paper</title>
+</head>
+<body>
+    <h1>About the App</h1>
+    <p>This app is your guide to useful knowledge in life. Each link is a doorway to immense knowledge that will help you grow as a human being.</p>
+    <p>Follow the links carefully as they can lead you to unknown territories and paths. Education is key to understanding the world, humanity, and life itself.</p>
+    <p>Good luck on your educational journey!</p>
+
+    <h2>Paper Links:</h2>
+    <ul>
+        <li><a href="file.html">Name of File</a></li>
+    </ul>
+</body>
+</html>
