@@ -28,6 +28,16 @@ let's go to journey - " Paper"./
 </body>
 </html>
 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About the App</title>
+</head>
+<body>
+  <h1>About the App</h1>
+  <a href="start_the_life.txt">Click here to open the file "start the life"</a>
+</body>
+</html>
 
 
 
