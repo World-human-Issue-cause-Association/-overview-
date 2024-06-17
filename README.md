@@ -9,6 +9,7 @@ you believe me I crate you " Image"
 for being as educated join yourself to education , I recommend education will lead you to identify world , human and life.
 let's go to journey - " Paper"./
 /////_______Page "1"./
-[paper]https://WorldhumanIssuecauseAssociation.net.
+[paper]
+
 
 
