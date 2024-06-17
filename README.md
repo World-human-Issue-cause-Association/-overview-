@@ -38,6 +38,7 @@ let's go to journey - " Paper"./
   <a href="start_the_life.txt">Click here to open the file "start the life"</a>
 </body>
 </html>
+https://github.com/<username>/<repository>/blob/<branch>/<path-to-file>
 
 
 
