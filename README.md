@@ -10,6 +10,23 @@ for being as educated join yourself to education , I recommend education will le
 let's go to journey - " Paper"./
 /////_______Page "1"./
 [paper]https://start the life file . extension 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>App Paper</title>
+</head>
+<body>
+    <h1>About the App</h1>
+    <p>This app is your guide to useful knowledge in life. Each link is a doorway to immense knowledge that will help you grow as a human being.</p>
+    <p>Follow the links carefully as they can lead you to unknown territories and paths. Education is key to understanding the world, humanity, and life itself.</p>
+    <p>Good luck on your educational journey!</p>
+
+    <h2>Paper Links:</h2>
+    <ul>
+        <li><a href="file.html">Name of File</a></li>
+    </ul>
+</body>
+</html>
 
 
 
