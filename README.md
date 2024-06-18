@@ -8,38 +8,6 @@ I wish you great luck for education journey . you will be found various other so
 you believe me I crate you " Image"
 for being as educated join yourself to education , I recommend education will lead you to identify world , human and life.
 let's go to journey - " Paper"./
-/////_______Page "1"./
-[paper]https://start the life file . extension 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>App Paper</title>
-</head>
-<body>
-    <h1>About the App</h1>
-    <p>This app is your guide to useful knowledge in life. Each link is a doorway to immense knowledge that will help you grow as a human being.</p>
-    <p>Follow the links carefully as they can lead you to unknown territories and paths. Education is key to understanding the world, humanity, and life itself.</p>
-    <p>Good luck on your educational journey!</p>
-
-    <h2>Paper Links:</h2>
-    <ul>
-        <li><a href="file.html">Name of File</a></li>
-    </ul>
-</body>
-</html>
-
-<!DOCTYPE html>
-<html>
-<head>
-  <title>About the App</title>
-</head>
-<body>
-  <h1>About the App</h1>
-  <a href="start_the_life.txt">Click here to open the file "start the life"</a>
-</body>
-</html>
-https://github.com/<username>/<repository>/blob/<branch>/<path-to-file>
-https://github.com/<stromlight>/<overview>/blob><main>/<path-to-"start the life">
-https://github.com/<stromlight>/<overview>/blob><main>/path-to-"i am human.txt">
+/////_______Page "1"./ my repository open thousands of knowledge.
 
 
